@@ -1,2 +1,2 @@
 # Sample Snack app
-![Foto](assets/Captura.PNG)
+![Foto](assets/Capturar.PNG)
